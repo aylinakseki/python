@@ -1,6 +1,6 @@
 aylin = "Hello, World!"
 print(aylin)
-#My name is aylin
+#My name is aylin akseki
 name = input("What is your name? ")
 number = int(input("Tell me a number from 1 to 5: "))
 print("Your favorite number is "+ str(number)+ ", "+ str(name)+ ".")
